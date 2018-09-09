@@ -1,0 +1,59 @@
+{
+  "_from": "react-native-system-setting@1.0.7",
+  "_id": "react-native-system-setting@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha1-XOm954/P8bl1urT4m0uAVfKM8zI=",
+  "_location": "/react-native-system-setting",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-system-setting@1.0.7",
+    "name": "react-native-system-setting",
+    "escapedName": "react-native-system-setting",
+    "rawSpec": "1.0.7",
+    "saveSpec": null,
+    "fetchSpec": "1.0.7"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-system-setting/-/react-native-system-setting-1.0.7.tgz",
+  "_shasum": "5ce9bde78fcff1b975bab4f89b4b8055f28cf332",
+  "_spec": "react-native-system-setting@1.0.7",
+  "_where": "/jdev/client-app",
+  "author": {
+    "name": "Ninty",
+    "email": "c19354837@hotmail.com",
+    "url": "https://github.com/c19354837"
+  },
+  "bugs": {
+    "url": "https://github.com/c19354837/react-native-system-setting/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "provide some system setting APIs. Volume, brightness, wifi, location, bluetooth...",
+  "homepage": "https://github.com/c19354837/react-native-system-setting",
+  "keywords": [
+    "react-native",
+    "system",
+    "setting",
+    "volume",
+    "wifi",
+    "brightness",
+    "location",
+    "bluetooth"
+  ],
+  "license": "MIT",
+  "main": "SystemSetting.js",
+  "name": "react-native-system-setting",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c19354837/react-native-system-setting.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.7"
+}
